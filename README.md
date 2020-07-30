@@ -1,6 +1,6 @@
 # Modelling_Segmentation_Annotators_Pytorch
 
-# This is a work in progress, a polished version would be released very soon
+# (This is a work in progress, a polished version would be released very soon.)
 
 **The architecture of our model is depicted below:**
 
